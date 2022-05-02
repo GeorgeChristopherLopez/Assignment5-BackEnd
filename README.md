@@ -2,7 +2,7 @@
 
 ## Run via NodeJS
 <b>node server.js</b> </br>
-with node installed run "nodejs server.js" or "node server.js" in root directory
+with node installed run "node server.js" in root directory
 should get a message saying "server listening on port 8080"
 
 
