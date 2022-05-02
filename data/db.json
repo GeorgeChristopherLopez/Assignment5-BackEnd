@@ -1,0 +1,63 @@
+ [
+      {
+        "id":1,
+        "firstname":"Bugs",
+        "lastname":"Bunny",
+        "email":"bugsbunny@gmail.com",
+        "products": [
+            {
+                "id": 1,
+                "name": "bananas"
+            },
+            {
+                "id": 2,
+                "name": "oranges"
+            },
+            {
+                "id": 3,
+                "name": "strawberries"
+            }
+        ]
+      },
+      {
+        "id":2,
+        "firstname":"Daffy",
+        "lastname":"Duck",
+        "email":"daffyduck@gmail.com",
+        "products": [
+            {
+                "id": 1,
+                "name": "bananas"
+            },
+            {
+                "id": 2,
+                "name": "oranges"
+            },
+            {
+                "id": 3,
+                "name": "strawberries"
+            }
+        ]
+      },
+      {
+        "id":3,
+        "firstname":"Tweety",
+        "lastname":"Bird",
+        "email":"tweetybird@gmail.com",
+        "products": [
+            {
+                "id": 1,
+                "name": "bananas"
+            },
+            {
+                "id": 2,
+                "name": "oranges"
+            },
+            {
+                "id": 3,
+                "name": "strawberries"
+            }
+        ]
+      }
+    ]
+ 
